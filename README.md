@@ -1,4 +1,4 @@
-# ase485jobsearch
+# Job Search Application Project Details
 Job Search Application repository for ASE 485
 
 ## Documents
