@@ -1,6 +1,6 @@
 # Job Search Application Project Details
 
-### Documents
+## Documents
 Requirements: https://docs.google.com/document/d/1m9C4sLEank8ZyVukXVRkJUucO5FZ3rw5cnvpXBlFTFo/edit?usp=sharing
 
 Rules and Tools: https://docs.google.com/document/d/1u56mxIdIVshnhnLNpIb1pylfVy3p5AgyPXMgVYfSBBQ/edit?usp=sharing
