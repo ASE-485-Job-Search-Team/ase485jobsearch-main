@@ -2,7 +2,7 @@
 Job Search Application repository for ASE 485
 
 ## Documents
-Requirements:
+Requirements: https://docs.google.com/document/d/1m9C4sLEank8ZyVukXVRkJUucO5FZ3rw5cnvpXBlFTFo/edit?usp=sharing
 
 Project Details: https://docs.google.com/document/d/1l9w4YejIhsh6Y3G4yXSk1I0JdNu0PZ0bIVedvUt41CM/edit?usp=sharing
 
