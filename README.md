@@ -17,4 +17,6 @@ Project Details: https://docs.google.com/document/d/1l9w4YejIhsh6Y3G4yXSk1I0JdNu
 
 Project Ideas and Positions: https://docs.google.com/document/d/1MX5DmrfBTuFgNRL0Om7ZL8VbFz2h-pAP6mDUyjfdH90/edit?usp=sharing
 
+HW2: https://docs.google.com/document/d/11l5EFGaNhTPbYalGHBGNd7Z93VDd0fQ_/edit?usp=sharing&ouid=114423695549176094517&rtpof=true&sd=true
+
 Google Docs Project Folder: https://drive.google.com/drive/folders/16M96_Wv3kBgkVrLAEFm8szFnOr6tcezY?usp=sharing
