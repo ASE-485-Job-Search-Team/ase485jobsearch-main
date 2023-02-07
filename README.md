@@ -15,6 +15,8 @@ Architecture: https://docs.google.com/document/d/1TZBrYple2kpvT1dXlacZD3GOaRyQ7x
 
 Rules and Tools: https://docs.google.com/document/d/1u56mxIdIVshnhnLNpIb1pylfVy3p5AgyPXMgVYfSBBQ/edit?usp=sharing
 
+Project Development Rules and Tools: https://docs.google.com/document/d/1WsY943U2vuRpd2SoMk7bL5zHOXp8fGszAYeMU5ep1-c/edit#
+
 Schedule: https://docs.google.com/document/d/1kpNU9we6dQx8yi4PQC4SvaQq9VGdXz5yWt0qWOIMhHs/edit?usp=sharing
 
 API Documentation: https://docs.google.com/document/d/1s396vpcKlEhJA4YzZiZQKU1zNl9zEmelomCQ4MdN-wI/edit?usp=sharing
