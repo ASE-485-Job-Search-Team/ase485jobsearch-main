@@ -3,11 +3,15 @@
 ## Documents
 Jira: https://jobsearchnku.atlassian.net/jira/software/projects/AS/boards/1/roadmap
 
+Sprint Deliverables: https://docs.google.com/document/d/1b_X8BqUgSYwySq6BNWari4t-pEJA7XfN6_pzXXF993c/edit#
+
 Prototype Deliverables: https://docs.google.com/document/d/1xASwQWOMS4i6Pu8pMZ4tgi0QhyEdD2zTDUBBCi0P-0Y/edit?usp=sharing
 
 Prototype Presentation: https://docs.google.com/presentation/d/15QtToWLu63e_GYgRaML_HxI0pJsKFt0wEGnqY6GHy04/edit?usp=sharing
 
 Requirements: https://docs.google.com/document/d/1m9C4sLEank8ZyVukXVRkJUucO5FZ3rw5cnvpXBlFTFo/edit?usp=sharing
+
+Architecture: https://docs.google.com/document/d/1TZBrYple2kpvT1dXlacZD3GOaRyQ7xmg6FrJv8k_ElU/edit#
 
 Rules and Tools: https://docs.google.com/document/d/1u56mxIdIVshnhnLNpIb1pylfVy3p5AgyPXMgVYfSBBQ/edit?usp=sharing
 
