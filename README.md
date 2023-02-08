@@ -21,7 +21,7 @@ Schedule: https://docs.google.com/document/d/1kpNU9we6dQx8yi4PQC4SvaQq9VGdXz5yWt
 
 API Documentation: https://docs.google.com/document/d/1s396vpcKlEhJA4YzZiZQKU1zNl9zEmelomCQ4MdN-wI/edit?usp=sharing
 
-GUI Design: https://www.figma.com/file/v8WnAMJPPIQUAA3fSgzh6g/Untitled?node-id=0%3A1&t=4hd4mVHOqovBVptx-1
+GUI Design: https://www.figma.com/file/oo8HgmXnMrIBcKXxokKV9M/Job-Search?node-id=22%3A282&t=QrZeR0bKfTLaH4O5-1
 
 Project Details: https://docs.google.com/document/d/1l9w4YejIhsh6Y3G4yXSk1I0JdNu0PZ0bIVedvUt41CM/edit?usp=sharing
 
