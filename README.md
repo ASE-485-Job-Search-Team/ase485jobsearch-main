@@ -1,6 +1,8 @@
 # Job Search Application Project Details
 
 ## Documents
+Sprint 1 Deliverables: https://docs.google.com/document/d/1eGlz-EvDXh4goe62cqCr_USNeHKpp5poN6ZpjEDeBtw/edit
+
 Jira: https://jobsearchnku.atlassian.net/jira/software/projects/AS/boards/1/roadmap
 
 Sprint Deliverables: https://docs.google.com/document/d/1b_X8BqUgSYwySq6BNWari4t-pEJA7XfN6_pzXXF993c/edit#
