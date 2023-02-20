@@ -7,7 +7,7 @@ Jira: https://jobsearchnku.atlassian.net/jira/software/projects/AS/boards/1/road
 
 Sprint Deliverables: https://docs.google.com/document/d/1b_X8BqUgSYwySq6BNWari4t-pEJA7XfN6_pzXXF993c/edit#
 
-API Documentation: https://docs.google.com/document/d/1s396vpcKlEhJA4YzZiZQKU1zNl9zEmelomCQ4MdN-wI/edit?usp=sharing
+API Documentation: https://docs.google.com/document/d/1Xt_TSPsEPn9d2dWK52RmjTe6Rgwdujwlfm8e_F2r7ds/edit
 
 GUI Design: https://www.figma.com/file/oo8HgmXnMrIBcKXxokKV9M/Job-Search?node-id=22%3A282&t=QrZeR0bKfTLaH4O5-1
 
