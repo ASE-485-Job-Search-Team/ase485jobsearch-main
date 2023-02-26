@@ -10,7 +10,8 @@ Sprint Deliverables: https://docs.google.com/document/d/1b_X8BqUgSYwySq6BNWari4t
 API Documentation: https://docs.google.com/document/d/1Xt_TSPsEPn9d2dWK52RmjTe6Rgwdujwlfm8e_F2r7ds/edit
 
 GUI Design: https://www.figma.com/file/oo8HgmXnMrIBcKXxokKV9M/Job-Search?node-id=22%3A282&t=QrZeR0bKfTLaH4O5-1
-https://www.figma.com/file/4F8F9OUpjFP8O92Vq3hgoU/Job-Search-App-UI?node-id=0%3A1&t=d86v4HbgX93HdSfm-1
+
+UI: https://www.figma.com/file/4F8F9OUpjFP8O92Vq3hgoU/Job-Search-App-UI?node-id=0%3A1&t=d86v4HbgX93HdSfm-1
 
 Architecture: https://docs.google.com/document/d/1TZBrYple2kpvT1dXlacZD3GOaRyQ7xmg6FrJv8k_ElU/edit#
 
