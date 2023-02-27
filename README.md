@@ -7,6 +7,8 @@ Sprint 2 Backlog: https://docs.google.com/document/d/18fYdsrjfNE5bBMFH2FSAxttxm9
 
 Jira: https://jobsearchnku.atlassian.net/jira/software/projects/JSB/boards/34/backlog
 
+Requirements: https://docs.google.com/document/d/1m9C4sLEank8ZyVukXVRkJUucO5FZ3rw5cnvpXBlFTFo/edit?usp=sharing
+
 Sprint Deliverables: https://docs.google.com/document/d/1b_X8BqUgSYwySq6BNWari4t-pEJA7XfN6_pzXXF993c/edit#
 
 API Documentation: https://docs.google.com/document/d/1Xt_TSPsEPn9d2dWK52RmjTe6Rgwdujwlfm8e_F2r7ds/edit
@@ -18,8 +20,6 @@ UI: https://www.figma.com/file/4F8F9OUpjFP8O92Vq3hgoU/Job-Search-App-UI?node-id=
 Architecture: https://docs.google.com/document/d/1TZBrYple2kpvT1dXlacZD3GOaRyQ7xmg6FrJv8k_ElU/edit#
 
 Schedule: https://docs.google.com/document/d/1kpNU9we6dQx8yi4PQC4SvaQq9VGdXz5yWt0qWOIMhHs/edit?usp=sharing
-
-Requirements: https://docs.google.com/document/d/1m9C4sLEank8ZyVukXVRkJUucO5FZ3rw5cnvpXBlFTFo/edit?usp=sharing
 
 Rules and Tools: https://docs.google.com/document/d/1u56mxIdIVshnhnLNpIb1pylfVy3p5AgyPXMgVYfSBBQ/edit?usp=sharing
 
