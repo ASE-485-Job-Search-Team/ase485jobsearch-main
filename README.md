@@ -1,9 +1,9 @@
 # Job Search Application Project Details
 
 ## Documents
-Sprint 1 Deliverables: https://docs.google.com/document/d/1eGlz-EvDXh4goe62cqCr_USNeHKpp5poN6ZpjEDeBtw/edit
+Sprint 1 Backlog: https://docs.google.com/document/d/1eGlz-EvDXh4goe62cqCr_USNeHKpp5poN6ZpjEDeBtw/edit
 
-Sprint 2 Deliverables: https://docs.google.com/document/d/18fYdsrjfNE5bBMFH2FSAxttxm9d590O4g27sBV-Z8qU/edit#heading=h.ihj8sia3jqwe
+Sprint 2 Backlog: https://docs.google.com/document/d/18fYdsrjfNE5bBMFH2FSAxttxm9d590O4g27sBV-Z8qU/edit#heading=h.ihj8sia3jqwe
 
 Jira: https://jobsearchnku.atlassian.net/jira/software/projects/JSB/boards/34/backlog
 
